@@ -18,3 +18,20 @@ body {
 /* ---------------------------------------------------- */
 
 
+.kontejner{
+	display:flex;
+}
+
+.levy{
+	flex-basis: 25%;
+	order:1;
+}
+
+.pravy{
+	flex-basis: 20%;
+	order: 3;
+}
+
+.hlavni{
+	order: 2;
+}
